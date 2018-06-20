@@ -16,9 +16,9 @@ my %WriteMakefileArgs = (
     "ExtUtils::MakeMaker" => 0,
     "Module::Build" => "0.28"
   },
-  "DISTNAME" => "Plack-Middleware-LogStderr-StderrToLogger",
+  "DISTNAME" => "Plack-Middleware-LogStderr",
   "LICENSE" => "perl",
-  "NAME" => "Plack::Middleware::LogStderr::StderrToLogger",
+  "NAME" => "Plack::Middleware::LogStderr",
   "PREREQ_PM" => {
     "Capture::Tiny" => 0,
     "Plack::Middleware" => 0,
